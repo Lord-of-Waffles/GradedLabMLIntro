@@ -11,7 +11,7 @@
    cd GradedLab
 ```
 
-2. Start the container:
+2. Start the container (when docker daemon running):
 ```bash
    docker-compose up
 ```

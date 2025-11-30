@@ -25,3 +25,8 @@
 ```bash
 docker-compose down
 ```
+or
+```bash
+ctrl+c
+```
+in the terminal where the container was started
